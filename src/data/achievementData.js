@@ -3,11 +3,11 @@ export const achievementData = {
     achievements : [
         {
             id : 1,
-            title : 'Google Cloud certification',
-            details : 'Google Cloud certifications validate your expertise and showcase your ability to transform businesses with Google Cloud technology.',
+            title : 'odoo certification v 17 & v16',
+            details : '-The exam will cover the following subjects: Website, eCommerce, Survey, Marketing, CRM, Sales, Purchases, Project, Timesheet, Accounting, Inventory, MRP, HR, Spreadsheet, POS and Studio.-You’ll have 1.5 hours to complete this 120-questions exam.',
             date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1573141597928-403fcee0e056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80'
+            field : 'ERP',
+            image : 'https://drive.google.com/file/d/1eHusoGXtbL6_L6svBoYhIoaPme_yoQnj/view'
         },
         {
             id : 2,
