@@ -1,4 +1,4 @@
-# Developer Portfolio 
+# abuemira Portfolio 
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/b26b0ebaaa13bec7fac796ee0b8296676df6ee0b/developer-portfolio/website.svg" alt="" width="450px"/>
@@ -45,7 +45,7 @@
 
 # Demo :movie_camera:
 ![](https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/demo.gif)
-## View live demo [here](https://dev-portfolio-template.netlify.app/).
+## View live demo [here](https://abuemira.netlify.app/).
 
 <br />
 

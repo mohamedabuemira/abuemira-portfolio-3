@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name's Jane. I'm a web designer and developer based in Southampton, UK.",
-    description2: "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
+    description1: "Hi there, I'm Mohamed Essam Abu Emira. 👋 👋.",
+    description2: "   I'm Odoo Techno-Functional Expert, with experience implementing financial and supply chain management, sales, CRM, planning, manufacturing and HRM. Technical and business skills keep understanding customer needs and perform successful implementation.specialist: financial, trade & logistics, discrete manufacturing, process manufacturing, HR, Real estate .",
     image: 2
 }
